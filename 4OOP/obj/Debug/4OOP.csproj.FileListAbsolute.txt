@@ -1,0 +1,6 @@
+E:\Project Visual 2015\Prefix_and_Postfix\4OOP\bin\Debug\4OOP.exe.config
+E:\Project Visual 2015\Prefix_and_Postfix\4OOP\obj\Debug\4OOP.csprojResolveAssemblyReference.cache
+E:\Project Visual 2015\Prefix_and_Postfix\4OOP\bin\Debug\4OOP.exe
+E:\Project Visual 2015\Prefix_and_Postfix\4OOP\bin\Debug\4OOP.pdb
+E:\Project Visual 2015\Prefix_and_Postfix\4OOP\obj\Debug\4OOP.exe
+E:\Project Visual 2015\Prefix_and_Postfix\4OOP\obj\Debug\4OOP.pdb

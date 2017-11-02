@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prefix_and_Postfix", "Prefix_and_Postfix\Prefix_and_Postfix.csproj", "{079B8613-3550-4FFB-A6C1-929DB041D962}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Methods", "Methods\Methods.csproj", "{8915D87B-3A25-48E7-BB5A-8DC2911D38F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Date_Time_WinForm", "Date_Time_WinForm\Date_Time_WinForm.csproj", "{7DA80639-05F4-4DE1-9864-6ADF68851815}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "inherit_exam", "inherit_exam\inherit_exam.csproj", "{DE737265-C649-4438-B13D-4BFCBFBBAD44}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4OOP", "4OOP\4OOP.csproj", "{5E6F8549-E215-4254-B93A-34577BE9F336}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP_Drawing_WPF", "OOP_Drawing_WPF\OOP_Drawing_WPF.csproj", "{5802B389-CB4D-4402-8F7C-A19D2224F432}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{079B8613-3550-4FFB-A6C1-929DB041D962}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{079B8613-3550-4FFB-A6C1-929DB041D962}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{079B8613-3550-4FFB-A6C1-929DB041D962}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{079B8613-3550-4FFB-A6C1-929DB041D962}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8915D87B-3A25-48E7-BB5A-8DC2911D38F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8915D87B-3A25-48E7-BB5A-8DC2911D38F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8915D87B-3A25-48E7-BB5A-8DC2911D38F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8915D87B-3A25-48E7-BB5A-8DC2911D38F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DA80639-05F4-4DE1-9864-6ADF68851815}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DA80639-05F4-4DE1-9864-6ADF68851815}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DA80639-05F4-4DE1-9864-6ADF68851815}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DA80639-05F4-4DE1-9864-6ADF68851815}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE737265-C649-4438-B13D-4BFCBFBBAD44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE737265-C649-4438-B13D-4BFCBFBBAD44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE737265-C649-4438-B13D-4BFCBFBBAD44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE737265-C649-4438-B13D-4BFCBFBBAD44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E6F8549-E215-4254-B93A-34577BE9F336}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E6F8549-E215-4254-B93A-34577BE9F336}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E6F8549-E215-4254-B93A-34577BE9F336}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E6F8549-E215-4254-B93A-34577BE9F336}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5802B389-CB4D-4402-8F7C-A19D2224F432}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5802B389-CB4D-4402-8F7C-A19D2224F432}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5802B389-CB4D-4402-8F7C-A19D2224F432}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5802B389-CB4D-4402-8F7C-A19D2224F432}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,5 @@
+E:\Project Visual 2015\Prefix_and_Postfix\Methods\bin\Debug\Methods.exe.config
+E:\Project Visual 2015\Prefix_and_Postfix\Methods\bin\Debug\Methods.exe
+E:\Project Visual 2015\Prefix_and_Postfix\Methods\bin\Debug\Methods.pdb
+E:\Project Visual 2015\Prefix_and_Postfix\Methods\obj\Debug\Methods.exe
+E:\Project Visual 2015\Prefix_and_Postfix\Methods\obj\Debug\Methods.pdb
