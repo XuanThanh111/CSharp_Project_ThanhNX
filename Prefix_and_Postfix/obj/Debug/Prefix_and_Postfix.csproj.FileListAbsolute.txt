@@ -4,3 +4,6 @@ E:\Project Visual 2015\Prefix_and_Postfix\Prefix_and_Postfix\bin\Debug\Prefix_an
 E:\Project Visual 2015\Prefix_and_Postfix\Prefix_and_Postfix\obj\Debug\Prefix_and_Postfix.csprojResolveAssemblyReference.cache
 E:\Project Visual 2015\Prefix_and_Postfix\Prefix_and_Postfix\obj\Debug\Prefix_and_Postfix.exe
 E:\Project Visual 2015\Prefix_and_Postfix\Prefix_and_Postfix\obj\Debug\Prefix_and_Postfix.pdb
+E:\Project Visual 2015\CSharp_Project\Prefix_and_Postfix\bin\Debug\Prefix_and_Postfix.exe.config
+E:\Project Visual 2015\CSharp_Project\Prefix_and_Postfix\obj\Debug\Prefix_and_Postfix.exe
+E:\Project Visual 2015\CSharp_Project\Prefix_and_Postfix\obj\Debug\Prefix_and_Postfix.pdb
