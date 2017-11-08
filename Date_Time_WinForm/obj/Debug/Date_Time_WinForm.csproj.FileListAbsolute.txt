@@ -7,3 +7,11 @@ E:\Project Visual 2015\Prefix_and_Postfix\Date_Time_WinForm\obj\Debug\Date_Time_
 E:\Project Visual 2015\Prefix_and_Postfix\Date_Time_WinForm\obj\Debug\Date_Time_WinForm.csproj.GenerateResource.Cache
 E:\Project Visual 2015\Prefix_and_Postfix\Date_Time_WinForm\obj\Debug\Date_Time_WinForm.exe
 E:\Project Visual 2015\Prefix_and_Postfix\Date_Time_WinForm\obj\Debug\Date_Time_WinForm.pdb
+E:\Project Visual 2015\CSharp_Project\Date_Time_WinForm\bin\Debug\Date_Time_WinForm.exe.config
+E:\Project Visual 2015\CSharp_Project\Date_Time_WinForm\bin\Debug\Date_Time_WinForm.exe
+E:\Project Visual 2015\CSharp_Project\Date_Time_WinForm\bin\Debug\Date_Time_WinForm.pdb
+E:\Project Visual 2015\CSharp_Project\Date_Time_WinForm\obj\Debug\Date_Time_WinForm.Form1.resources
+E:\Project Visual 2015\CSharp_Project\Date_Time_WinForm\obj\Debug\Date_Time_WinForm.Properties.Resources.resources
+E:\Project Visual 2015\CSharp_Project\Date_Time_WinForm\obj\Debug\Date_Time_WinForm.csproj.GenerateResource.Cache
+E:\Project Visual 2015\CSharp_Project\Date_Time_WinForm\obj\Debug\Date_Time_WinForm.exe
+E:\Project Visual 2015\CSharp_Project\Date_Time_WinForm\obj\Debug\Date_Time_WinForm.pdb

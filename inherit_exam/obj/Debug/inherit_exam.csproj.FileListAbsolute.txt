@@ -4,3 +4,8 @@ E:\Project Visual 2015\Prefix_and_Postfix\inherit_exam\bin\Debug\inherit_exam.pd
 E:\Project Visual 2015\Prefix_and_Postfix\inherit_exam\obj\Debug\inherit_exam.exe
 E:\Project Visual 2015\Prefix_and_Postfix\inherit_exam\obj\Debug\inherit_exam.pdb
 E:\Project Visual 2015\Prefix_and_Postfix\inherit_exam\obj\Debug\inherit_exam.csprojResolveAssemblyReference.cache
+E:\Project Visual 2015\CSharp_Project\inherit_exam\bin\Debug\inherit_exam.exe.config
+E:\Project Visual 2015\CSharp_Project\inherit_exam\bin\Debug\inherit_exam.exe
+E:\Project Visual 2015\CSharp_Project\inherit_exam\bin\Debug\inherit_exam.pdb
+E:\Project Visual 2015\CSharp_Project\inherit_exam\obj\Debug\inherit_exam.exe
+E:\Project Visual 2015\CSharp_Project\inherit_exam\obj\Debug\inherit_exam.pdb

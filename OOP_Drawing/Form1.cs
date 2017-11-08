@@ -16,5 +16,16 @@ namespace OOP_Drawing
         {
             InitializeComponent();
         }
+
+        private void Form1_MouseClick(object sender, MouseEventArgs e)
+        { 
+            Square mySquare = new Square(100);
+            if (mySquare is IDraw)
+            {
+                IDraw drawSquare = mySquare;
+                drawSquare.SetLocation((int)Location.X, (int)Location.Y);
+                //drawSquare.Drawing(Form1);
+            }
+        }
     }
 }
