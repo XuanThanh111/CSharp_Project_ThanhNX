@@ -1,8 +1,0 @@
-E:\Project Visual 2015\CSharp_Project\OOP_Drawing\bin\Debug\OOP_Drawing.exe.config
-E:\Project Visual 2015\CSharp_Project\OOP_Drawing\bin\Debug\OOP_Drawing.exe
-E:\Project Visual 2015\CSharp_Project\OOP_Drawing\bin\Debug\OOP_Drawing.pdb
-E:\Project Visual 2015\CSharp_Project\OOP_Drawing\obj\Debug\OOP_Drawing.Form1.resources
-E:\Project Visual 2015\CSharp_Project\OOP_Drawing\obj\Debug\OOP_Drawing.Properties.Resources.resources
-E:\Project Visual 2015\CSharp_Project\OOP_Drawing\obj\Debug\OOP_Drawing.csproj.GenerateResource.Cache
-E:\Project Visual 2015\CSharp_Project\OOP_Drawing\obj\Debug\OOP_Drawing.exe
-E:\Project Visual 2015\CSharp_Project\OOP_Drawing\obj\Debug\OOP_Drawing.pdb
