@@ -1,0 +1,6 @@
+E:\Project Visual 2015\CSharp_Project\Abtract_And_Interface\bin\Debug\Abtract_And_Interface.exe.config
+E:\Project Visual 2015\CSharp_Project\Abtract_And_Interface\obj\Debug\Abtract_And_Interface.csprojResolveAssemblyReference.cache
+E:\Project Visual 2015\CSharp_Project\Abtract_And_Interface\bin\Debug\Abtract_And_Interface.exe
+E:\Project Visual 2015\CSharp_Project\Abtract_And_Interface\bin\Debug\Abtract_And_Interface.pdb
+E:\Project Visual 2015\CSharp_Project\Abtract_And_Interface\obj\Debug\Abtract_And_Interface.exe
+E:\Project Visual 2015\CSharp_Project\Abtract_And_Interface\obj\Debug\Abtract_And_Interface.pdb
