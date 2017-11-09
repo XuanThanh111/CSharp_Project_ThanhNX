@@ -1,0 +1,5 @@
+E:\Project Visual 2015\CSharp_Project\ref_out\bin\Debug\ref_out.exe.config
+E:\Project Visual 2015\CSharp_Project\ref_out\bin\Debug\ref_out.exe
+E:\Project Visual 2015\CSharp_Project\ref_out\bin\Debug\ref_out.pdb
+E:\Project Visual 2015\CSharp_Project\ref_out\obj\Debug\ref_out.exe
+E:\Project Visual 2015\CSharp_Project\ref_out\obj\Debug\ref_out.pdb

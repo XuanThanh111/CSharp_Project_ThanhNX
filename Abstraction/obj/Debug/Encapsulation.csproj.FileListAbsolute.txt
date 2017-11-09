@@ -1,0 +1,6 @@
+E:\Project Visual 2015\CSharp_Project\Abstraction\bin\Debug\Encapsulation.exe.config
+E:\Project Visual 2015\CSharp_Project\Abstraction\obj\Debug\Encapsulation.csprojResolveAssemblyReference.cache
+E:\Project Visual 2015\CSharp_Project\Abstraction\bin\Debug\Encapsulation.exe
+E:\Project Visual 2015\CSharp_Project\Abstraction\bin\Debug\Encapsulation.pdb
+E:\Project Visual 2015\CSharp_Project\Abstraction\obj\Debug\Encapsulation.exe
+E:\Project Visual 2015\CSharp_Project\Abstraction\obj\Debug\Encapsulation.pdb

@@ -17,6 +17,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Draw_OOP_WPF", "Draw_OOP_WP
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abtract_And_Interface", "Abtract_And_Interface\Abtract_And_Interface.csproj", "{595A74B2-7A8E-4EF7-B20F-565DFB79B090}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Encapsulation", "Abstraction\Encapsulation.csproj", "{3FDD90DB-4509-47FF-B30D-F073CEE50CBB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ref_out", "ref_out\ref_out.csproj", "{8D933541-BCD4-453C-8ABD-A8EDECE889DA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +55,14 @@ Global
 		{595A74B2-7A8E-4EF7-B20F-565DFB79B090}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{595A74B2-7A8E-4EF7-B20F-565DFB79B090}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{595A74B2-7A8E-4EF7-B20F-565DFB79B090}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FDD90DB-4509-47FF-B30D-F073CEE50CBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FDD90DB-4509-47FF-B30D-F073CEE50CBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FDD90DB-4509-47FF-B30D-F073CEE50CBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FDD90DB-4509-47FF-B30D-F073CEE50CBB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D933541-BCD4-453C-8ABD-A8EDECE889DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D933541-BCD4-453C-8ABD-A8EDECE889DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D933541-BCD4-453C-8ABD-A8EDECE889DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D933541-BCD4-453C-8ABD-A8EDECE889DA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
