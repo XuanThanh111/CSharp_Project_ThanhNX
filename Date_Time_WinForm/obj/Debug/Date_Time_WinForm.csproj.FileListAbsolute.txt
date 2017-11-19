@@ -15,3 +15,4 @@ E:\Project Visual 2015\CSharp_Project\Date_Time_WinForm\obj\Debug\Date_Time_WinF
 E:\Project Visual 2015\CSharp_Project\Date_Time_WinForm\obj\Debug\Date_Time_WinForm.csproj.GenerateResource.Cache
 E:\Project Visual 2015\CSharp_Project\Date_Time_WinForm\obj\Debug\Date_Time_WinForm.exe
 E:\Project Visual 2015\CSharp_Project\Date_Time_WinForm\obj\Debug\Date_Time_WinForm.pdb
+E:\Project Visual 2015\CSharp_Project\Date_Time_WinForm\obj\Debug\Date_Time_WinForm.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+E:\Project Visual 2015\CSharp_Project\USOL_test_10.11\bin\Debug\USOL_test_10.11.exe.config
+E:\Project Visual 2015\CSharp_Project\USOL_test_10.11\obj\Debug\USOL_test_10.11.csprojResolveAssemblyReference.cache
+E:\Project Visual 2015\CSharp_Project\USOL_test_10.11\bin\Debug\USOL_test_10.11.exe
+E:\Project Visual 2015\CSharp_Project\USOL_test_10.11\bin\Debug\USOL_test_10.11.pdb
+E:\Project Visual 2015\CSharp_Project\USOL_test_10.11\obj\Debug\USOL_test_10.11.exe
+E:\Project Visual 2015\CSharp_Project\USOL_test_10.11\obj\Debug\USOL_test_10.11.pdb

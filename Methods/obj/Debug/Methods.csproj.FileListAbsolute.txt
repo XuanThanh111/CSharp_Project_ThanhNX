@@ -8,3 +8,4 @@ E:\Project Visual 2015\CSharp_Project\Methods\bin\Debug\Methods.exe
 E:\Project Visual 2015\CSharp_Project\Methods\bin\Debug\Methods.pdb
 E:\Project Visual 2015\CSharp_Project\Methods\obj\Debug\Methods.exe
 E:\Project Visual 2015\CSharp_Project\Methods\obj\Debug\Methods.pdb
+E:\Project Visual 2015\CSharp_Project\Methods\obj\Debug\Methods.csprojResolveAssemblyReference.cache

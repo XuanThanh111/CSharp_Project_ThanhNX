@@ -20,7 +20,7 @@ namespace Encapsulation
         {
             return color;
         }
-        //private khong duoc truy xuat ben ngoai class
+        //private khong duoc truy xuat ben ngoai class, 
         private string GetEngineMakeFormula()
         {
             return formula;

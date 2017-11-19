@@ -11,3 +11,4 @@ E:\Project Visual 2015\CSharp_Project\Draw_OOP_WPF\obj\Debug\Draw_OOP_WPF.Proper
 E:\Project Visual 2015\CSharp_Project\Draw_OOP_WPF\obj\Debug\Draw_OOP_WPF.csproj.GenerateResource.Cache
 E:\Project Visual 2015\CSharp_Project\Draw_OOP_WPF\obj\Debug\Draw_OOP_WPF.exe
 E:\Project Visual 2015\CSharp_Project\Draw_OOP_WPF\obj\Debug\Draw_OOP_WPF.pdb
+E:\Project Visual 2015\CSharp_Project\Draw_OOP_WPF\obj\Debug\Draw_OOP_WPF.csprojResolveAssemblyReference.cache
